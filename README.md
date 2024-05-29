@@ -79,7 +79,3 @@
     ```
 Access to [http://localhost:8501](http://localhost:8501).
 
-## 🌐 Deploy to Streamlit Cloud
-You can fork this repository and deploy the app to https://share.streamlit.io/. No need to run the app on your local machine.
-
-> Don't forget to choose 3.10 as the Python version and set environment variables in the "Advanced settings" during deployment.
